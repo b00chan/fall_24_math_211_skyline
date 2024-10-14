@@ -1,0 +1,43 @@
+﻿Drink,Size,Cafe,Price ($)
+Milk Tea,Medium,Asha,5.5
+Tea,Medium,Asha,2.5
+Espresso,Medium,Asha,3
+Latte,Medium,Asha,4.75
+Cappucino ,Medium,Asha,4.25
+Blended Coffee,Medium,Asha,6
+Drip Coffee,Medium,Asha,3.5
+Milk Tea,Medium,Strada,7
+Tea,Medium,Strada,4
+Espresso,Medium,Strada,4.5
+Latte,Medium,Strada,6.25
+Cappucino ,Medium,Strada,5.75
+Blended Coffee,Medium,Strada,7.5
+Drip Coffee,Medium,Strada,5
+Milk Tea,Medium,FSM,4.5
+Tea,Medium,FSM,2
+Espresso,Medium,FSM,2.5
+Latte,Medium,FSM,4
+Cappucino ,Medium,FSM,3.5
+Blended Coffee,Medium,FSM,5
+Drip Coffee,Medium,FSM,3
+Milk Tea,Large,Asha,7
+Tea,Large,Asha,4
+Espresso,Large,Asha,4.5
+Latte,Large,Asha,6.25
+Cappucino ,Large,Asha,5.75
+Blended Coffee,Large,Asha,7.5
+Drip Coffee,Large,Asha,5
+Milk Tea,Large,Strada,8.5
+Tea,Large,Strada,5.5
+Espresso,Large,Strada,6
+Latte,Large,Strada,7.75
+Cappucino ,Large,Strada,7.25
+Blended Coffee,Large,Strada,9
+Drip Coffee,Large,Strada,6.5
+Milk Tea,Large,FSM,6
+Tea,Large,FSM,3.5
+Espresso,Large,FSM,4
+Latte,Large,FSM,5.5
+Cappucino ,Large,FSM,5
+Blended Coffee,Large,FSM,6.5
+Drip Coffee,Large,FSM,4.5
